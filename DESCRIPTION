@@ -9,3 +9,5 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/erica-bishop/themetheme
+BugReports: https://github.com/erica-bishop/themetheme/issues
